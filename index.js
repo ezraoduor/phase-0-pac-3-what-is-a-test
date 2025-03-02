@@ -4,7 +4,7 @@ const message = `${name} is ${height} inches tall`;
 
 module.exports = {name, height, message};
 
-/*
+
 describe('what-is-a-test', () => {
   describe('Name', () => {
     it('returns "Susan"', () => {
@@ -26,5 +26,5 @@ describe('what-is-a-test', () => {
     })
   })
 })
-*/
+
 ```
